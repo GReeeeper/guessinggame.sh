@@ -21,3 +21,4 @@ guessing_game() {
 
 # Start the game
 guessing_game
+chmod +x guessinggame.sh
